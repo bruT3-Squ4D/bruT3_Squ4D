@@ -1,1 +1,1 @@
-# bruT3_Squ4D
+# Repo for science/tech blog
